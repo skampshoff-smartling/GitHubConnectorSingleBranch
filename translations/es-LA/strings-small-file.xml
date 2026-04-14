@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- smartling.instruction_comments_enabled = on -->
+  <string name="results">Tu lista de reproducción tiene {items, plural, un {# álbum.} Otros {# álbumes.}}</string>
+  <string name="accept">Aceptar</string>
+  <plurals name="xOfxBuyers">
+        <item quantity="one">%1$d de %2$d comprador</item>
+        <item quantity="other">%1$d de %2$d compradores</item>
+    </plurals>
+</resources>
